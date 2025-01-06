@@ -13,11 +13,15 @@ public class WPMGameGUI extends JFrame implements ActionListener {
     /**
      * An array of words that will be randomly selected for the typing test.
      */
-    private static final String[] WORDS = {"horizon", "whistle", "galaxy", "ripple", "ember", "velvet",
+    private static final String[] WORDS = {
+            "horizon", "whistle", "galaxy", "ripple", "ember", "velvet",
             "breeze", "canvas", "serendipity", "quirk", "wander", "prism", "echo", "luminary",
             "harbor", "mirage", "zenith", "glimmer", "solace", "cipher", "fragment", "anchor",
             "radiance", "whimsy", "lantern", "nebula", "aurora", "twilight", "shimmer",
-            "voyage", "orbit"};
+            "voyage", "orbit", "sapphire", "melody", "drift", "serenity", "cascade", "whisper",
+            "spectra", "harmony", "phantom", "lullaby", "flicker", "pulse", "vivid", "flame",
+            "dawn", "reverie", "luminous", "mystic", "echoes", "wisp", "vanguard"
+    };
 
     private JLabel wordsLabel;
     private JTextField inputField;

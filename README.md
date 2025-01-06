@@ -8,6 +8,6 @@ Play again and again to beat your best score, challenge your friends 👯‍♂�
 How to Run
   - Clone or download this repository to your local machine.
   - Open a terminal or command prompt.
-  - Navigate to the directory containing the WPM.java file.
-  - Compile the program with the following command: javac WPM.java
-  - Run the program with the following command: java WPM
+  - Navigate to the directory containing the WPMGameGUI.java file.
+  - Compile the program with the following command: javac WPMGameGUI.java
+  - Run the program with the following command: java WPMGameGUI

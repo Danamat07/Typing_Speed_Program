@@ -1,11 +1,25 @@
 # Typing Speed Test (WPM)
-Typing Speed Test (WPM) is a fast-paced, finger-flying, word-slinging challenge that puts your typing skills to the ultimate test! 🖋️⚡💻 Watch as a random assortment of words pops up on your screen, and your mission (should you choose to accept it) is to type them as quickly and accurately as possible. ⏱️🕶️
+Typing Speed Test (WPM) is a fast-paced and engaging application designed to test and improve your typing skills! 🎯🖋️ With a randomized set of words appearing on your screen, your challenge is to type them as quickly and accurately as possible. It’s the ultimate test of speed, precision, and focus! 💻⚡
 
-Think you're a keyboard wizard? 🧙‍♂️⌨️ Prove it! The program calculates your Words Per Minute (WPM) 📝, giving you a breakdown of how many words you nailed ✅ and how many tripped you up ❌. Messed up? 😅 No worries! Hit retry 🔄 to sharpen your skills and aim for a new high score 🏆, or gracefully bow out if your fingers need a rest 💤.
+The program calculates your Words Per Minute (WPM) while providing a detailed breakdown of your typing performance, including the number of correct words ✅ and mistakes ❌. If you make a mistake, don’t worry—just hit retry to sharpen your skills and aim for a new high score 🏆.
 
-Play again and again to beat your best score, challenge your friends 👯‍♂️, or just show your keyboard who's boss 💪🔥. Ready? Get set… Type like the wind! 🚀💻⚡
+Compete with yourself or your friends, track your progress, and turn typing into a fun and rewarding experience. Ready to type like a pro? 🚀⌨️
 
-How to Run
+# Features
+  - Randomized Word Generation: Automatically generates a new set of random words for each session, ensuring a unique challenge every time.
+  - Real-Time Typing Feedback: Calculates results immediately after you finish typing, showing both speed and accuracy.
+  - WPM Calculation: Measures your typing speed in words per minute.
+  - Retry Functionality: Practice as much as you like to reach new highs.
+  - Intuitive and Clean Interface: The user-friendly design ensures smooth navigation for all players.
+
+# Technologies Used
+  - Java: The core programming language used to develop the application.
+  - Swing: Used to create a modern, graphical user interface (GUI) that is responsive and visually appealing.
+  - AWT (Abstract Window Toolkit): Provides foundational features, such as Font and GridBagLayout, which are used for customizing text appearance and aligning components in the GUI.
+  - Java.time API: Accurately measures and calculates elapsed time for WPM computation.
+  - Object-Oriented Design: Implements modular and reusable code with classes like WPMGameGUI for GUI logic and event handling.
+
+# How to Run
   - Clone or download this repository to your local machine.
   - Open a terminal or command prompt.
   - Navigate to the directory containing the WPMGameGUI.java file.
